@@ -1,0 +1,7 @@
+[] reading  data  from a csv
+[] fitting the data into a matrix
+[] normalizing data
+[] learning 
+[] output the parameters into a file
+
+
